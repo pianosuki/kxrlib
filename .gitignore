@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv
+
+# Pycharm project file
+.idea
+
+# Python cache
+__pycache__/
+
+# Logs
+logs/
