@@ -8,7 +8,7 @@ Kxrlib is a Python library designed to streamline modding for the MMORPG [Onigir
 
 ## Planned Features
 - Implement fuzzy matching algorithms to restore filenames and directory structures for unpacked .kxr files
-  - The goal is to universal compatibility with any version of the game files without relying on having the correct pkg.json
+  - The goal is achieve to universal compatibility with any version of the game files without relying on having the correct pkg.json
 - Create a transcompiler to facilitate scripting accessibility for modding the game
 
 ## Installation
