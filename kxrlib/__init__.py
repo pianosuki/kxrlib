@@ -9,6 +9,9 @@ from .io import KxrHeaderEntry
 from .io import FileType
 from .io import FileCriteria
 
+from .packaging import KxrPacker
+from .packaging import KxrUnpacker
+
 from .utils import pack_kxr
 from .utils import unpack_kxr
 
@@ -24,6 +27,10 @@ __all__ = [
     "KxrHeaderEntry",
     "FileType",
     "FileCriteria",
+
+    # packaging
+    "KxrPacker",
+    "KxrUnpacker",
 
     # utils
     "pack_kxr",
